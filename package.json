@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-project",
+  "version": "1.0.0",
+  "description": "a project with tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "Krishnendu Bera",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
